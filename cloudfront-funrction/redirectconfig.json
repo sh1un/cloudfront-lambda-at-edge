@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "key": "/products/kindle/",
+            "value": "{\"match_type\":\"device\",\"items\": [{\"is_mobile\": \"true\", \"status_code\": 301, \"dest_uri\": \"\/products\/kindle\/mobile-friendly\/\"},{\"is_mobile\": \"false\", \"status_code\": 301, \"dest_uri\": \"\/products\/kindle\/desktop-friendly\/\"}]}"
+        },
+        {
+            "key": "/promotions/2022kindle/",
+            "value": "{\"match_type\":\"none\",\"dest_uri\": \"\/promotions\/\",\"status_code\": 301}"
+        }
+    ]
+}
